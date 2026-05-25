@@ -62,20 +62,3 @@ src/
 
 ---
 
-# Difference Between Vibe Coding and SDD
-
-| Vibe Coding | Spec Driven Development |
-|---|---|
-| Prompt-based generation | Specification-first workflow |
-| Fast prototyping | Structured engineering |
-| No source of truth | Spec is source of truth |
-| Harder to maintain | Easier maintenance |
-| Informal workflow | Proposal and task workflow |
-
----
-
-# Purpose
-
-This project was created as part of a workshop assignment on:
-
-**Future of Software Development with LLMs: Spec Driven Development vs Vibe Coding**
