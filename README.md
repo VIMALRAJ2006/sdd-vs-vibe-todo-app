@@ -6,7 +6,7 @@ The application was developed using a specification-first workflow where require
 
 ---
 
-# SDD Workflow
+## SDD Workflow
 
 The project follows the OpenSpec lifecycle:
 
