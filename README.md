@@ -20,7 +20,7 @@ Specification → Proposal → Tasks → AI Implementation → Archive
 
 ---
 
-# Features
+## Features
 
 - Add tasks
 - Delete tasks
@@ -35,7 +35,7 @@ Specification → Proposal → Tasks → AI Implementation → Archive
 
 ---
 
-# Project Structure
+## Project Structure
 
 ```text
 openspec/
@@ -52,13 +52,10 @@ src/
 
 ---
 
-# Technologies Used
+## Technologies Used
 
 - OpenSpec
 - Cursor AI
 - HTML
 - CSS
 - JavaScript
-
----
-
